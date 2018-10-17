@@ -3,7 +3,7 @@ puts 1+1
 end
 
 def subtraction(num1, num2)
- puts  1-1
+ puts  1-1=0
 end
 
 def division(num1, num2)
