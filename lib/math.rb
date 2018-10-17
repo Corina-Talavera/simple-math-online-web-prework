@@ -15,9 +15,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  num1=4 
-  num2=6
-  puts modulo(num1,num2)
+  5%3
 end
 
 def square_root(num)
