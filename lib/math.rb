@@ -24,5 +24,5 @@ end
 
 def order_of_operation(num1, num2, num3, num4)
   #Hint:  __ + (( __ * __ ) / __ )
-  puts 1+((2*2)/2)
+  puts 1+((2*2)/2)=3
 end
